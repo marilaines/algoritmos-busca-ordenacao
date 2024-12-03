@@ -1,0 +1,4 @@
+O Radix Sort lida com bases diferentes processando os números dígito por dígito (base 10) ou bit por bit (base 2). 
+Na base 10, os números são ordenados por unidades, dezenas, centenas, e assim por diante. Já na base 2, os números são classificados 
+com base em cada posição binária (0 ou 1). A escolha da base afeta o número de iterações: bases maiores (ex.: 10) reduzem as iterações, 
+mas aumentam o custo de agrupamento, enquanto bases menores (ex.: 2) realizam mais iterações, mas com menos agrupamentos.

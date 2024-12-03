@@ -1,0 +1,1 @@
+O Interpolation Search é mais eficiente que o Binary Search em listas ordenadas com elementos distribuídos de forma uniforme (ou aproximadamente uniforme).

@@ -1,0 +1,3 @@
+A eficiência do Shell Sort depende diretamente da escolha da sequência de intervalos (gaps), pois ela influencia a 
+rapidez com que elementos distantes são movidos para suas posições corretas. Intervalos maiores no início permitem organizar 
+rapidamente partes distantes da lista, enquanto intervalos menores no final refinam a ordenação

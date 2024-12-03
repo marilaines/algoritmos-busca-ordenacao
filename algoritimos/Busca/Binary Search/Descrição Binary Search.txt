@@ -1,0 +1,13 @@
+A lista deve estar ordenada para que o algoritmo Binary Search funcione corretamente porque 
+o seu funcionamento baseia-se em dividir a lista em duas partes e decidir, de forma eficiente, 
+qual delas contém o elemento procurado. Sem uma lista ordenada, 
+o algoritmo não pode garantir que a parte descartada não contém o elemento.
+
+Exemplo:
+Considere a lista não ordenada: [9, 1, 7, 5, 11, 3]
+Objetivo: Encontrar o elemento 7.
+
+Passo 1: Verifica o elemento do meio: 7.
+Nesse caso, o elemento é encontrado.
+Mas, se o meio fosse 5, o algoritmo excluiria metade sem garantia de que o 7 está na outra parte, tornando o resultado incorreto.
+Problema: Em uma lista não ordenada, a exclusão de metade dos elementos não é confiável.

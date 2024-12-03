@@ -1,0 +1,3 @@
+O Ternary Search é mais eficiente que o Binary Search em situações onde as comparações são muito custosas, como na busca em funções unimodais 
+(com um único pico ou vale) ou em cenários onde é vantajoso dividir a busca em três partes para reduzir o número de comparações. Entretanto, 
+para buscas em listas ordenadas gerais, o Binary Search costuma ser mais eficiente.
